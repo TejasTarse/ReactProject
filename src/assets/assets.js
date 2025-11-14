@@ -81,7 +81,7 @@ export const products = [
         category: "women",
         subCategory: "Accessories",
         size: ["M", "L"],
-        bestseller: true,
+        bestseller: false,
     },
     {
         id: 7,
@@ -117,7 +117,7 @@ export const products = [
         category: "women",
         subCategory: "Ethnic Wear",
         size: ["S", "M", "L"],
-        bestseller: false,
+        bestseller: true,
     },
     {
         id: 10,
