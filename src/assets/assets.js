@@ -11,6 +11,18 @@ import lc_img10 from './Images/LS10.jpg'
 import lc_img11 from './Images/LS11.jpg' 
 import lc_img12 from './Images/LS12.jpg'
 
+import exchange_icon from './Images/exchange_icon.png'
+import quality_icon from './Images/quality_icon.png'
+import support_img from './Images/support_img.png'
+
+export const assets = [
+  exchange_icon,
+  quality_icon,
+    support_img,
+];
+
+
+
 export const products = [
     {
         id: 1,
